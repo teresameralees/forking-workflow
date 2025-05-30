@@ -1,8 +1,3 @@
-# Documentación del Proyecto
-
-Este documento fue añadido por Joaquin Martinez.
-
-
-
-
+# Docuemntacion del proyecto
+Monsserrat Garcia Garcia 
 
